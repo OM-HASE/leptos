@@ -45,7 +45,7 @@ multer = { version = "3.1", optional = true }
 serde_json = "1.0"
 serde-lite = { version = "0.5.0", features = ["derive"], optional = true }
 futures = "0.3.31"
-http = { version = "1.1" }
+http = { version = "1.2" }
 ciborium = { version = "0.2.2", optional = true }
 postcard = { version = "1", features = ["alloc"], optional = true }
 hyper = { version = "1.5", optional = true }
